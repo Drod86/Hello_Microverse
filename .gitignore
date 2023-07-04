@@ -407,7 +407,7 @@ FodyWeavers.xsd
 Icon
 
 # .md files
-*.md
+*text.md
 
 # Thumbnails
 ._*
